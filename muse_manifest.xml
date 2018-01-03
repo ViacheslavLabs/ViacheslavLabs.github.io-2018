@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://viacheslavlabs.github.io" resolutions="1x" timestamp="1515008395288">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://viacheslavlabs.github.io" resolutions="1x" timestamp="1515008545083">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4088547232" ref="index"/>
-    <file name="nomq_index.css" crc="207383943" ref="index"/>
+    <file name="index.css" crc="180164314" ref="index"/>
+    <file name="nomq_index.css" crc="243969706" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -64,5 +64,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="417237311" seo="true" mt="1515008388134" redirect="true"/>
+  <file name="index.html" crc="4157406287" seo="true" mt="1515008533732" redirect="true"/>
 </manifest>
