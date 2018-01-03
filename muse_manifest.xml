@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://viacheslavlabs.github.io" resolutions="1x" timestamp="1515008204956">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://viacheslavlabs.github.io" resolutions="1x" timestamp="1515008395288">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4088547232" ref="index"/>
@@ -64,5 +64,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="297236275" seo="true" mt="1515008183671" redirect="true"/>
+  <file name="index.html" crc="417237311" seo="true" mt="1515008388134" redirect="true"/>
 </manifest>
