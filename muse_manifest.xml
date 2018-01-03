@@ -1,0 +1,53 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="2.com" resolutions="1x" timestamp="1515007252819">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="521923246" ref="index"/>
+    <file name="nomq_index.css" crc="207383943" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="0-.png" crc="4234824031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="3949105031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-.png" crc="4021593280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="3911540553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2--.png" crc="4217747386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2--980x601.png" crc="10514001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-980x600.png" crc="430931563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-980x601.png" crc="426823230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1801x601.png" crc="4185332256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4769x577.png" crc="203666595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="337001641" seo="true" mt="1515007177768" redirect="true"/>
+</manifest>

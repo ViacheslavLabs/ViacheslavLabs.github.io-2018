@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://2.com/index.html</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://2.com/images/0-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/3-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/2--.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/2--980x601.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/3-980x600.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/0-980x601.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/1801x601.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://2.com/images/4769x577.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
